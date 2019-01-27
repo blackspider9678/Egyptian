@@ -29,4 +29,5 @@ The egyptian mod is still in the works, but here's the list of what will be adde
       - Red
       - Blue
       - Green
-    - 
+  
+More will be added later!
