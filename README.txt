@@ -5,6 +5,9 @@ The egyptian mod is still in the works, but here's the list of what will be adde
   - Mummies
   - Gods
   - Pharoah
+  - Beatles
+    - Red
+    - Yellow
 - structures
   - Pyramids
   - Underground Dungeons
