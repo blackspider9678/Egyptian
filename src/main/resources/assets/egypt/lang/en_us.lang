@@ -1,0 +1,11 @@
+//items
+item.waystone.name=Waystone
+item.black_ant.name=Black Ant
+item.sun_crystal.name=Sun Crystal
+
+//blocks
+tile.sun_sandstone_block.name=Sun Sandstone
+tile.sun_altar_block.name=Sun Altar
+tile.sun_cauldron_block.name=Sun Cauldron
+tile.small_pedestal_block.name=Small Pedestal
+tile.tall_pedestal_block.name=Tall Pedestal
