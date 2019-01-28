@@ -12,4 +12,8 @@ public class ModItems {
 	
 	//Crystals
 	public static final Item SUN_CRYSTAL = new ItemBase("sun_crystal");
+	
+	//Gems
+	public static final Item AZURITE_STONE = new ItemBase("azurite_stone");
+	public static final Item SENTHURITE_INGOT = new ItemBase("senthurite_ingot");
 }
