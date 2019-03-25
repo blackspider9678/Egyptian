@@ -4,10 +4,31 @@ The egyptian mod is still in the works, but here's the list of what will be adde
 - entities
   - Mummies
   - Gods
-  - Pharoah
+  - Pharaoh
   - Beatles
     - Red
     - Yellow
+  - Snakes
+  - Scorpions
+  - Desert Fox
+  - Gods (Boss)
+    - Ra
+    - Geb and Nut
+    - Shu
+    - Osiris
+    - Isis
+    - Set
+    - Nephthys
+    - Horus
+    - Bast
+    - Sobek
+    - Serqet
+    - Anubis
+    - Bes
+    - Khonsu
+    - Nekhbet
+    - Babi
+    - Tawaret
 - structures
   - Pyramids
   - Underground Dungeons
@@ -32,5 +53,11 @@ The egyptian mod is still in the works, but here's the list of what will be adde
       - Red
       - Blue
       - Green
-  
+  - In world blocks
+    - Plants
+      - Papyrus
+      - Palm Trees
+      - Cat Tails
+      - Reeds
+      - 
 More will be added later!
