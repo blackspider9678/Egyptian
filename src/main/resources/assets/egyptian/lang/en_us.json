@@ -1,0 +1,29 @@
+{
+	"item.egyptian.staff_senthurite" : "Egyptian Staff",
+	"item.egyptian.chisel" : "Chisel",
+	"item.egyptian.hammer" : "Hammer",
+	"item.egyptian.guide_book" : "Guide Book",
+	
+	"item.egyptian.azurite_stone" : "Azurite Stone",
+	"item.egyptian.senthurite_ingot" : "Senthurite Ingot",
+	
+	"item.egyptian.blank_scroll" : "Blank Scroll",
+	"item.egyptian.written_scroll" : "Written Scroll",
+	
+	"item.egyptian.blank_pattern" : "Pattern: Blank",
+	"item.egyptian.pattern_pyramid" : "Pattern: Pyramid",
+	
+	"item.egyptian.papyrus_paper" : "Papyrus Paper",
+	"item.egyptian.sun_crystal" : "Sun Crystal",
+	
+	"item.egyptian.iron_plate" : "Iron Plate",
+	"item.egyptian.gold_plate" : "Gold Plate",
+	
+	"item.egyptian.sun_bathed_gold" : "Bathed Gold",
+	"item.egyptian.sun_bathed_rod" : "Bathed Rod",
+	
+	
+	
+	"block.egyptian.sun_bathed_gold_block" : "Bathed Gold Block",
+	"block.egyptian.small_pedestal_block" : "Small Pedestal"
+}
